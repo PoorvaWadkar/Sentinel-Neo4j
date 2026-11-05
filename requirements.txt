@@ -1,0 +1,4 @@
+neo4j 
+supabase 
+python-dotenv 
+pandas

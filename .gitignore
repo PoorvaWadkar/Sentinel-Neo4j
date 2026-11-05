@@ -1,0 +1,17 @@
+# Virtual Environment
+sentinelneoenv/
+
+# Jupyter Notebook
+neo4j.ipynb
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
